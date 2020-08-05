@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="http://webtrip.tur.br/ass/Programmer2.png.png">
+<img align="right" width="400" height="400" src="http://webtrip.tur.br/ass/Programmer2.png">
 
 ### Pleasure, I'm Guilherme! 👋
 
