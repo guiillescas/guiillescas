@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="http://webtrip.tur.br/ass/Programmer2.png.png">
 
-<!--
-**Guillescas/Guillescas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pleasure, I'm Guilherme! 👋
 
-Here are some ideas to get you started:
+Software Engineering at PUC-PR 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2º period
+
+Full-Stack Developer student at Rocketseat
+- LaunchBase → Completed ✓
+- GoStack → In progress ⌛️
+
+## About me
+
+I'm working at [WebTrip](http://webtrip.tur.br) as Full-Stack Developer, and you can see my activities on my [Linkedin](https://www.linkedin.com/in/guilherme-illescas/)!
+
+
+## Contact infos
+[![Linkedin Badge](https://img.shields.io/badge/-guilhermeillescas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-illescas/)](https://www.linkedin.com/in/guilherme-illescas/)
+[![Gmail Badge](https://img.shields.io/badge/-gui.illescas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.illescas@gmail.com)](mailto:gui.illescas@gmail.com)
