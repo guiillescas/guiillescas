@@ -1,6 +1,8 @@
+<h1 align="center">Hey, I'm Guilherme Illescas 👋</h1>
+
 <img align="right" width="400" height="400" src="http://webtrip.tur.br/ass/Programmer.png">
 
-### Pleasure, I'm Guilherme! 👋
+## Studies
 
 Software Engineering at PUC-PR 📚
 
@@ -10,7 +12,7 @@ Full-Stack Developer student at Rocketseat
 - LaunchBase → Completed ✓
 - GoStack → In progress ⌛️
 
-## About me
+## Work
 
 I'm working at [WebTrip](http://webtrip.tur.br) as Full-Stack Developer, and you can see my activities on my [Linkedin](https://www.linkedin.com/in/guilherme-illescas/)!
 
