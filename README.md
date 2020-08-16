@@ -2,7 +2,7 @@
   Pleasure, I'm Guilherme! 👋
 </h1>
 
-<img align="right" width="400" height="400" src="http://webtrip.tur.br/ass/Programmer2.png">
+<img align="right" width="400" height="400" src="http://webtrip.tur.br/ass/Programmer.png">
 
 ## Studies
 
