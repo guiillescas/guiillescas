@@ -4,6 +4,8 @@
 
 <img align="right" width="400" height="400" src="http://webtrip.tur.br/ass/Programmer2.png">
 
+## Studies
+
 Software Engineering at PUC-PR 📚
 
 - 2º period
