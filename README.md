@@ -14,9 +14,11 @@ Full-Stack Developer student at Rocketseat
 - LaunchBase → Completed ✓
 - GoStack → In progress ⌛️
 
-## About me
+## Work
 
 I'm working at [WebTrip](http://webtrip.tur.br) as Full-Stack Developer, and you can see my activities on my [Linkedin](https://www.linkedin.com/in/guilherme-illescas/)!
+
+## About me
 
 Currently my focus is on studies. I love to learn, teach and help people as I can. I believe that a better world is made through good experiences and coexistence.
 
