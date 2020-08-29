@@ -22,6 +22,14 @@ I'm working at [WebTrip](http://webtrip.tur.br) as Full-Stack Developer, and you
 
 Currently my focus is on studies. I love to learn, teach and help people as I can. I believe that a better world is made through good experiences and coexistence.
 
+**My stacks**
+
+- ReactJS
+- React Native
+- NodeJS
+- HTML/CSS
+- JavaScript
+- TypeScript
 
 ## Contact infos
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermeillescas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-illescas/)](https://www.linkedin.com/in/guilherme-illescas/)
