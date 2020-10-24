@@ -1,5 +1,5 @@
 <div>
-  <h1 style="text-align: center;">Pleasure, I'm Guilherme 👋 
+  <h1 align="center">Pleasure, I'm Guilherme 👋 
     <!-- <a href="https://www.linkedin.com/in/guilherme-illescas/">
       <img 
         style="display: flex; align-items: center; justify-content: center; height: 30px; margin-left: 24px;" 
@@ -18,7 +18,7 @@
       <p>In progress ⌛️</p>
     </ul>
 
-  <img style="height: 300px; top: 0; right: 0; position: absolute; padding: 32px" src="https://webcorp.com.br/man-coding.png" >
+  <!-- <img style="height: 300px; top: 0; right: 0; position: absolute; padding: 32px" src="https://webcorp.com.br/man-coding.png" > -->
   </div>
 
   <h2>Work 💼</h2>
