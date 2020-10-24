@@ -1,5 +1,5 @@
 <div>
-  <h1 style="display: flex; align-items: center; justify-content: center;">Pleasure, I'm Guilherme 👋 
+  <h1 style="text-align: center;">Pleasure, I'm Guilherme 👋 
     <!-- <a href="https://www.linkedin.com/in/guilherme-illescas/">
       <img 
         style="display: flex; align-items: center; justify-content: center; height: 30px; margin-left: 24px;" 
