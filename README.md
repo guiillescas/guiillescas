@@ -18,7 +18,7 @@
       <p>In progress ⌛️</p>
     </ul>
 
-  <img width="300" position="absolute" align="top" src="https://webcorp.com.br/man-coding.png" >
+  <img width="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png" >
   </div>
 
   <h2>Work 💼</h2>
