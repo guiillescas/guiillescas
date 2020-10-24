@@ -29,4 +29,6 @@
   I love spending time immersed in problems and solving them in the best possible way.
 
   "Every second is time to change everything forever", Charles Chaplin</p>
+
+  <a href="https://www.linkedin.com/in/guilherme-illescas/" target="_blank">Linkedin</a>
 </div>
