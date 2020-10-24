@@ -7,6 +7,8 @@
     </a> -->
   </h1>
 
+  <img width="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png" >
+
   <h2>Studies 📚</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr">
     <ul>
@@ -17,8 +19,6 @@
       <li>Bootcamp GoStack at Rocketseat</li>
       <p>In progress ⌛️</p>
     </ul>
-
-  <img width="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png" >
   </div>
 
   <h2>Work 💼</h2>
