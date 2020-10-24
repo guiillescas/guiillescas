@@ -25,7 +25,7 @@
   <p>I'm CTO and Partner at <a href="https://webcorp.com.br">WebCorp</a>! I am responsible for managing the projects involved in the technology area.</p>
 
   <h2>About Me 🤙🏼</h2>
-  <p>I am a person passionate about challenges and new learning! Always trying to be the best version of myself and improve the lives of others with what I do!
+  <p>I'm passionate about challenges and new learning! Always trying to be the best version of myself and improve the lives of others with what I do!
   I love spending time immersed in problems and solving them in the best possible way.
 
   "Every second is time to change everything forever", Charles Chaplin</p>
