@@ -22,7 +22,7 @@
   </div>
 
   <h2>Work 💼</h2>
-  <p>I'm CTO and Partner at <a href="https://webcorp.com.br">WebCorp</a>! I am responsible for managing the projects involved in the technology area.</p>
+  <p>I'm CTO and Partner at <a href="https://webcorp.com.br">WebCorp</a>! I am responsible for managing people and projects involved in the technology area.</p>
 
   <h2>About Me 🤙🏼</h2>
   <p>I'm passionate about challenges and new learning! Always trying to be the best version of myself and improve the lives of others with what I do!
