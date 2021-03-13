@@ -16,7 +16,7 @@
       <p>3º Period 🕺🏻</p>
       <li>LaunchBase at Rocketseat</li>
       <p>Completed ✓</p>
-      <li>Bootcamp GoStack at Rocketseat</li>
+      <li>Bootcamp Ignite at Rocketseat</li>
       <p>In progress ⌛️</p>
     </ul>
   </div>
