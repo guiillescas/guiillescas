@@ -30,5 +30,6 @@
 
   "Every second is time to change everything forever", Charles Chaplin</p>
 
-  <a href="https://www.linkedin.com/in/guilherme-illescas/" target="_blank">Linkedin</a>
+  [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeIllescas-blue?style=flat- square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-illescas/)](https://www.linkedin.com/in/guilherme-illescas/)
+  [![Gmail Badge](https://img.shields.io/badge/-oi@guilhermeillescas.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oi@guilhermeillescas.dev)](mailto:oi@guilhermeillescas.dev)
 </div>
