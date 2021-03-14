@@ -21,9 +21,6 @@
     </ul>
   </div>
 
-  <h2>Work 💼</h2>
-  <p>I'm a freelancer, helping people develop their projects. I love challenges, delivering everything with the best quality</p>
-
   <h2>About Me 🤙🏼</h2>
   <p>I'm passionate about challenges and new learning! Always trying to be the best version of myself and improve the lives of others with what I do!
   I love spending time immersed in problems and solving them in the best possible way.
