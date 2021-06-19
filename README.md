@@ -17,7 +17,8 @@
       <li>LaunchBase at Rocketseat</li>
       <p>Completed ✓</p>
       <li>Bootcamp Ignite at Rocketseat</li>
-      <p>In progress ⌛️</p>
+      <p>ReactJS / NextJS - 50% completed ⌛️</p>
+      <p>React Native - 33% completed ⌛️</p>
     </ul>
   </div>
 
