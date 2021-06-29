@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Pleasure, I'm Guilherme 👋 
+  <h1 align="center">Pleasure, I'm Guilherme <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
     <!-- <a href="https://www.linkedin.com/in/guilherme-illescas/">
       <img 
         style="display: flex; align-items: center; justify-content: center; height: 30px; margin-left: 24px;" 
@@ -13,12 +13,12 @@
   <div style="display: grid; grid-template-columns: 1fr 1fr">
     <ul>
       <li>Software Engineering at PUC PR</li>
-      <p>3º Period 🕺🏻</p>
+      <p>4º Period 🕺🏻</p>
       <li>LaunchBase at Rocketseat</li>
       <p>Completed ✓</p>
       <li>Bootcamp Ignite at Rocketseat</li>
       <p>ReactJS / NextJS - 50% completed ⌛️</p>
-      <p>React Native - 33% completed ⌛️</p>
+      <p>React Native - 83% completed ⌛️</p>
     </ul>
   </div>
 
