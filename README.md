@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Pleasure, I'm Guilherme <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+  <h1 align="center">Pleasure, I'm Guilherme <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">
     <!-- <a href="https://www.linkedin.com/in/guilherme-illescas/">
       <img 
         style="display: flex; align-items: center; justify-content: center; height: 30px; margin-left: 24px;" 
@@ -7,6 +7,7 @@
     </a> -->
   </h1>
 
+  <img height="40" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png" >
 
   <h2>Studies 📚</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr">
