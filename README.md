@@ -7,7 +7,9 @@
     </a> -->
   </h1>
 
-  <img width="40px" height="40px" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png" >
+  <div style="height: 40px; width: 40px;">
+    <img position="absolute" align="right" src="https://webcorp.com.br/man-coding.png" >
+  </div>
 
   <h2>Studies 📚</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr">
