@@ -13,7 +13,7 @@
   <div style="display: grid; grid-template-columns: 1fr 1fr">
     <ul>
       <li>Software Engineering at PUC PR</li>
-      <p>5º Period 🕺🏻</p>
+      <p>6º Period 🕺🏻</p>
       <li>LaunchBase at Rocketseat</li>
       <p>Completed ✓</p>
       <li>Bootcamp Ignite at Rocketseat</li>
