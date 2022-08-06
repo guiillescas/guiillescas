@@ -14,11 +14,6 @@
     <ul>
       <li>Software Engineering at PUC PR</li>
       <p>6º Period 🕺🏻</p>
-      <li>LaunchBase at Rocketseat</li>
-      <p>Completed ✓</p>
-      <li>Bootcamp Ignite at Rocketseat</li>
-      <p>ReactJS / NextJS - 50% completed ⌛️</p>
-      <p>React Native - 83% completed ⌛️</p>
     </ul>
   </div>
 
