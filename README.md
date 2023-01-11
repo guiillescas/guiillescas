@@ -13,7 +13,7 @@
   <div style="display: grid; grid-template-columns: 1fr 1fr">
     <ul>
       <li>Software Engineering at PUC PR</li>
-      <p>6º Period 🕺🏻</p>
+      <p>7º Period 🕺🏻</p>
     </ul>
   </div>
 
