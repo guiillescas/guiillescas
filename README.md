@@ -26,7 +26,7 @@
   <a href="https://twitter.com/guiillescas" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-guiillescas-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
-  <a href="https://linkedin.com/in/guilhermeillescas" target="_blank">
+  <a href="https://linkedin.com/in/guilherme-illescas" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-guilhermeillescas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/gui.illescas" target="_blank">
