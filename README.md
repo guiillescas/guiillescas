@@ -4,7 +4,7 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
-- 🔥 Sênior Front-end Developer
+- 🔥 Senior Front-end Developer
 
 - 🔭 Currently working at [Escola Conquer](https://conquer.plus) and [Amank](https://amank.com.br)
 
