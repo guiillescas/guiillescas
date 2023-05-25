@@ -4,9 +4,9 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
-- 🔥 Senior Front-end Developer
+- 🔥 Senior Front-end Engineer
 
-- 🔭 Currently working at [Escola Conquer](https://conquer.plus) and [Amank](https://amank.com.br)
+- 🔭 Currently working at [Escola Conquer](https://conquer.plus)
 
 <!-- - ▶️ I have a YouTube channel [youtube.com/guiillescas](https://youtube.com/guiillescas) -->
 
