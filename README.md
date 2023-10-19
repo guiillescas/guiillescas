@@ -6,8 +6,6 @@
 
 - 🔥 Senior Front-end Engineer
 
-- 🔭 Currently working at [Escola Conquer](https://conquer.plus)
-
 <!-- - ▶️ I have a YouTube channel [youtube.com/guiillescas](https://youtube.com/guiillescas) -->
 
 - 👨‍💻 More at [guilhermeillescas.dev](https://guilhermeillescas.dev)
