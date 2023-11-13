@@ -4,6 +4,8 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
+- 💼 Currently working [@previdenciarista](https://previdenciarista.com/)
+
 - 🔥 Senior Front-end Engineer
 
 <!-- - ▶️ I have a YouTube channel [youtube.com/guiillescas](https://youtube.com/guiillescas) -->
