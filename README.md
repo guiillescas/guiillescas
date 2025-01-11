@@ -4,13 +4,11 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
-- 💼 Currently working [@previdenciarista](https://previdenciarista.com/)
+- 💼 Currently working [@previdenciarista](https://previdenciarista.com/) and [@AwSales](https://awsales.io/)
 
 - 🔥 Senior Front-end Engineer
 
-<!-- - ▶️ I have a YouTube channel [youtube.com/guiillescas](https://youtube.com/guiillescas) -->
-
-- 👨‍💻 More at [guilhermeillescas.dev](https://guilhermeillescas.dev)
+- 👨‍💻 Portfolio at [guilhermeillescas.dev](https://guilhermeillescas.dev)
 
 <h2>About Me 🤙🏼</h2>
 <p>
@@ -22,17 +20,14 @@
 
 <h2>Contact</h2>
 
-<p align="left" style="background:yellow">
-  <a href="https://twitter.com/guiillescas" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-guiillescas-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<p align="left">
+  <a href="mailto:oi@guilhermeillescas.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Email-4A90E2?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/guilherme-illescas" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-guilhermeillescas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/gui.illescas" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-gui.illescas-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <!-- <a href="https://youtube.com/maykbrito" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-  </a> -->
 </p>
