@@ -6,7 +6,9 @@
 
 - 💼 Currently working [@previdenciarista](https://previdenciarista.com/) and [@AwSales](https://awsales.io/)
 
-- 💻 Creator of [Guidefy](https://guidefy.guilhermeillescas.dev/)
+- 💻 Creator of [guidefy](https://guidefy.guilhermeillescas.dev/)
+
+- 💻 Co-founder of [Viralify](https://www.viralify.app/)
 
 - 🔥 Senior Front-end Engineer
 
