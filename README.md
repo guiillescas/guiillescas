@@ -4,13 +4,13 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
+- 🔥 Senior Front-end Engineer
+
 - 💼 Currently working [@previdenciarista](https://previdenciarista.com/) and [@AwSales](https://awsales.io/)
 
-- 💻 Creator of [guidefy](https://guidefy.guilhermeillescas.dev/)
+- 🎧 Creator of [guidefy](https://guidefy.guilhermeillescas.dev/)
 
 - 🚀 Co-founder of [Viralify](https://www.viralify.app/)
-
-- 🔥 Senior Front-end Engineer
 
 - 👨‍💻 Portfolio at [guilhermeillescas.dev](https://guilhermeillescas.dev)
 
