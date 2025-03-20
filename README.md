@@ -4,7 +4,7 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
-- 🔥 Senior Front-end Engineer
+- 🔥 Senior Software Engineer
 
 - 💼 Currently working [@previdenciarista](https://previdenciarista.com/) and [@AwSales](https://awsales.io/)
 
