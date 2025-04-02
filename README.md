@@ -12,7 +12,7 @@
 
 - 🚀 Co-founder of [Viralify](https://www.viralify.app/)
 
-- 👨‍💻 Portfolio at [guilhermeillescas.dev](https://guilhermeillescas.dev)
+- 👨‍💻 Portfolio and live projects at [guilhermeillescas.dev](https://guilhermeillescas.dev)
 
 <h2>About Me 🤙🏼</h2>
 <p>
