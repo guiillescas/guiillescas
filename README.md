@@ -6,7 +6,7 @@
 
 - 🔥 Senior Software Engineer
 
-- 💼 Currently working [@previdenciarista](https://previdenciarista.com/) and [@AwSales](https://awsales.io/)
+- 💼 Currently working [@AwSales](https://awsales.io/)
 
 - 🎧 Creator of [guidefy](https://guidefy.guilhermeillescas.dev/)
 
