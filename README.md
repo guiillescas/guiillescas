@@ -4,13 +4,9 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
-- 🔥 Senior Software Engineer
+- 🔥 Foward Deployed Engineer
 
-- 💼 Currently working [@AwSales](https://awsales.io/)
-
-- 🎧 Creator of [guidefy](https://guidefy.guilhermeillescas.dev/)
-
-- 🚀 Co-founder of [Viralify](https://www.viralify.app/)
+- 💼 Currently working [@Tela](https://tela.com/)
 
 - 👨‍💻 Portfolio and live projects at [guilhermeillescas.dev](https://guilhermeillescas.dev)
 
