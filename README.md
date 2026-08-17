@@ -4,7 +4,7 @@
 
 <img height="300" position="absolute" align="right" src="https://webcorp.com.br/man-coding.png">
 
-- 🔥 Foward Deployed Engineer
+- 🔥 Software Engineer (Forward Deployed)
 
 - 💼 Currently working [@Tela](https://tela.com/)
 
